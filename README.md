@@ -1,11 +1,11 @@
-# Hi there 👋 I'm Jason Dixon, a Software Engineer and Mathematician
+# I'm Jason Dixon, a Software Engineer and Mathematician
 
 I have over a decade of experience bringing products and features to market, mostly for the Roku platform. The interactive ads SDK I built is used hundreds of millions of times daily on Roku devices across the globe.
 However, I'm currently building RAG search products and two AI powered avatar interactive applications for streaming TV and mobile. I've also been building Monte Carlo simulation / validation projects for mathematical models which power online slot machines. I'm trying to add more open source projects here, as almost everything I'm working on is proprietary and locked away in private repos.
 
 ## About Me
 
-- 🔭 I'm currently working on JIT / Real time conversational AI avatars, VOD-to-Live servers, Monte Carlo simulations, RAG search features.
+- 🔭 I'm currently working on JIT / Real time conversational AI avatars, VOD-to-Live servers, Monte Carlo simulations, and various RAG search features.
 - 🌱 I'm currently learning to implement applied mathematical concepts in software to model complex PRT and PAR calculations.
 - 👯 I'm looking to collaborate on AI startups and anything to do with online slot game design.
 - 💬 Ask me about streaming TV's present landscape, and future challenges.
