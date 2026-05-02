@@ -1,4 +1,4 @@
-# I'm Jason Dixon, a Software Engineer and Mathematician
+# I'm Jason Dixon, Software Engineer and Small Business Owner
 
 I have over a decade of experience bringing products and features to market, mostly for the Roku platform. The interactive ads SDK I built is used hundreds of millions of times daily on Roku devices across the globe.
 However, I'm currently building RAG search products and two AI powered avatar interactive applications for streaming TV and mobile. I've also been building Monte Carlo simulation / validation projects for mathematical models which power online slot machines. I'm trying to add more open source projects here, as almost everything I'm working on is proprietary and locked away in private repos.
