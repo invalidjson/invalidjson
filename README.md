@@ -95,5 +95,3 @@ However, I'm currently building RAG search products and two AI powered avatar in
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://www.invalidjson.com)
 
 ---
-
-⭐️ From [YOUR_USERNAME](https://github.com/invalidjson)
