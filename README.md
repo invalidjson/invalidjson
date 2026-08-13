@@ -1,13 +1,15 @@
-# I'm Jason Dixon, Software Engineer and Sometime Maths Guy
+# I'm Jason Dixon, Software Engineer Deep in TV Land...
 
 I have over a decade of experience bringing products and features to market, mostly for the Roku platform. The interactive ads SDK I built is used hundreds of millions of times daily on Roku devices across the globe.
-However, I'm currently building RAG search products and two AI powered avatar interactive applications for streaming TV and mobile. I've also been building Monte Carlo simulation / validation projects for mathematical models which power online slot machines. I'm trying to add more open source projects here, as almost everything I'm working on is proprietary and locked away in private repos.
+Currently, I'm about to release ReFits, an app I've been working on that's basically Stitch-Fix but with second hand items, and Pro-SAI ("pro-say"), an AI powered legal navigator/assistant for normal people who didn't go to law school. I'm trying to add more open source projects here, as almost everything I'm working on is proprietary and locked away in private repos.
+
+Also see me at [Delta-V Software](https://deltav.software)
 
 ## About Me
 
-- 🔭 I'm currently working on JIT / Real time conversational AI avatars, VOD-to-Live servers, Monte Carlo simulations, and various RAG search features.
-- 🌱 I'm currently learning to implement applied mathematical concepts in software to model complex PRT and PAR calculations for online slot games.
-- 👯 I'm looking to collaborate on AI startups and anything to do with online slot game design.
+- 🔭 I'm currently working on JIT / Real time conversational AI avatars, VOD-to-Live servers, and various RAG search features.
+- 🌱 Also building out a knowledge library of courses using ClassBuild and way too many tokens. Figuring out how to host it for the masses to use.
+- 👯 I'm looking to collaborate on AI startups and anything to do with streaming video, or interactive television.
 - 💬 Ask me about streaming TV's present landscape, and future challenges.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jasonadixon/).
 
