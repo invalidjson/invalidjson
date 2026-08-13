@@ -1,6 +1,6 @@
 # I'm Jason Dixon, Software Engineer Deep in TV Land...
 
-I have over a decade of experience bringing products and features to market, mostly for the Roku platform. The interactive ads SDK I built is used hundreds of millions of times daily on Roku devices across the globe.
+I have almost a decade and a half of experience bringing products and features to market, mostly for the Roku platform. The interactive ads SDK I built is used hundreds of millions of times daily on Roku devices across the globe.
 Currently, I'm about to release ReFits, an app I've been working on that's basically Stitch-Fix but with second hand items, and Pro-SAI ("pro-say"), an AI powered legal navigator/assistant for normal people who didn't go to law school. I'm trying to add more open source projects here, as almost everything I'm working on is proprietary and locked away in private repos.
 
 Also see me at [Delta-V Software](https://deltav.software)
